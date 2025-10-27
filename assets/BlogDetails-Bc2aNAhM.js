@@ -1,0 +1,1 @@
+import{_ as t,c as e,d as o}from"./index-DqM7_kNu.js";const r={data(){return{id:this.$route.params.id,blog:{}}},created(){this.$http.get("")}};function a(s,c,n,d,i,p){return o(),e("div",null,"john")}const _=t(r,[["render",a]]);export{_ as default};
